@@ -4,7 +4,7 @@
 
 ![Ronaldo-Gregorio GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronaldo-Gregorio&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldo-Gregorio&layout=donut-vertical)](https://github.com/Ronaldo-Gregorio/github-readme-stats)
 
 ### My work technologies
 
