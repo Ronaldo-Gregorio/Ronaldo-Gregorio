@@ -1,3 +1,3 @@
 ### Hello I'm dev Gregorio 🤙
-[1[Threads](https://www.threads.net/@_.greg._.28)]
+[1[Threads](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.threads.net/@_.greg._.28)
 
