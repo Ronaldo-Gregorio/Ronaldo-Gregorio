@@ -1,3 +1,4 @@
 ### Hello I'm dev Gregorio 🤙
-[![Threads](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.threads.net/@_.greg._.28)
+[![Threads](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.threads.net/@_.greg._.28)[![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/ronaldo-candido-dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
